@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zZCKyI8Wms/ONqSWEzLf78JU/7lAqHru910WUuAbSP/IfHRO+YoBmOXNndsuyVzWlY2skEaAesaQY8xwN2vm2Q==",
+  "success": true,
+  "projectFilePath": "/home/manjaropc/Documentos/Dev/NET/TecNM.Practica3/TecNM.Practica3.Core/TecNM.Practica3.Core.csproj",
+  "expectedPackageFiles": [
+    "/home/manjaropc/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.13/microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
